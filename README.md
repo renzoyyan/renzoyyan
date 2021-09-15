@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renzoyyan
+- 👋 Hi, I’m Renz Vallinas
 - 👀 I’m interested in Web Development!
 - 🌱 I’m currently learning ReactJS, NextJS, and TailwindCSS
 - 💞️ I’m looking to collaborate on ...
